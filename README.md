@@ -44,7 +44,7 @@ web服务器接收用户的Request 交给网站代码，或者接受请求反向
  MVC 模型(model)-视图(view)-控制器(controller)
 
  ![12.png](http://upload-images.jianshu.io/upload_images/4626319-df52fb8daf91d167.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- ## 浏览器处理
+##浏览器处理
  HTML字符串被浏览器接受后被一句句读取解析
 
  解析到link 标签后重新发送请求获取css
@@ -52,7 +52,7 @@ web服务器接收用户的Request 交给网站代码，或者接受请求反向
  解析到 script标签后发送请求获取 js，并执行代码
 
  解析到img 标签后发送请求获取图片资源
- ##绘制网页
+##绘制网页
  浏览器根据 HTML 和 CSS 计算得到渲染树，绘制到屏幕上js 会被执行
 
  文章参考了饥人谷教学视频《从URL输入到页面展现》,以及PPT
