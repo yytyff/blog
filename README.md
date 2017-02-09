@@ -40,11 +40,11 @@ ISP DNS 缓存 – 比如到电信的 DNS 上查找缓存。
 web服务器接收用户的Request 交给网站代码，或者接受请求反向代理到其他 web服务器
  web服务器.：就是一个管理的入口，工具，或者是一个管理者。可以去处理各种请求
  ![13.png](http://upload-images.jianshu.io/upload_images/4626319-5be8e144a59a2dcd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- ##网站处理流程
+ ## 网站处理流程
  MVC 模型(model)-视图(view)-控制器(controller)
 
  ![12.png](http://upload-images.jianshu.io/upload_images/4626319-df52fb8daf91d167.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
- ##浏览器处理
+ ## 浏览器处理
  HTML字符串被浏览器接受后被一句句读取解析
 
  解析到link 标签后重新发送请求获取css
