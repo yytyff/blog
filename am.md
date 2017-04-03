@@ -55,5 +55,3 @@ web服务器接收用户的Request 交给网站代码，或者接受请求反向
 ## 绘制网页
  浏览器根据 HTML 和 CSS 计算得到渲染树，绘制到屏幕上js 会被执行
 
- 文章参考了饥人谷教学视频《从URL输入到页面展现》,以及PPT
- [从 URL 输入到页面展现发生了什么？](http://book.jirengu.com/jrg-team/frontend-knowledge-ppt/www/前端入门-markdown语法.html#/3)
